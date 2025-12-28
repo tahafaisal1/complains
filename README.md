@@ -2,8 +2,10 @@
 
 A CodeIgniter 4 based application for managing student complaints and feedback in an educational environment.
 
-## Author
-**Taha Faisal**
+## Authors
+*   **طه فيصل الهادي عبدالله**
+*   **احمد صالع علي مفتاح**
+*   **عبدالرحمن محمد الساسي**
 
 ## Test Accounts
 You can use the following accounts to test the system with different roles:
